@@ -1,0 +1,10 @@
+1. A constructor creates an instance of a class.
+
+2. Through polymorphism, you can treat a child class as either the child class or the parent class.
+    For example, you can call methods in Wagon and Engine directly from RollingStock, but you can also
+    have methods specific to Wagon or Engine. With polymorphism, you can have less duplicate code.
+
+
+8 i) String
+  ii) integer
+  iii) boolean
